@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\alanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\alanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\ogrenciscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\ogrenciscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\alan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\alan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\migrations\\20240611223028_demo30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\migrations\\20240611223028_demo30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\mufredatkonularscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\mufredatkonularscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\dersbilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\dersbilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\dersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\dersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\konubilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\konubilgisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\mufredatdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\mufredatdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\model\\mufredatkonular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\model\\mufredatkonular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\dersprogramiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\dersprogramiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\dersbilgisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\dersbilgisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\konubilgisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\konubilgisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\controllers\\mufredatderslerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\controllers\\mufredatderslerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\eogrencitakipapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\eogrencitakipapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\migrations\\20240611225735_demo33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\migrations\\20240611225735_demo33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\migrations\\20240611224549_demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\migrations\\20240611224549_demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|c:\\users\\ulker\\onedrive\\masa\u00FCst\u00FC\\mustafa\\business\\sistem analizi\\e \u00F6\u011Frenci takip \u0026 analiz\\eogrencitakipapi\\eogrencitakipapi\\migrations\\20240611223818_demo32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47669E64-54E4-422C-AFD9-F845A49D9002}|EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj|solutionrelative:eogrencitakipapi\\migrations\\20240611223818_demo32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240612095033_Demo35.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240612095033_Demo35.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:50:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrencisController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\OgrencisController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\OgrencisController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\OgrencisController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\OgrencisController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAcwGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:50:08.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlansController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\AlansController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\AlansController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\AlansController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\AlansController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:49:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:24:57.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240611225735_Demo33.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611225735_Demo33.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240611225735_Demo33.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611225735_Demo33.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240611225735_Demo33.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:57:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240611224549_Demo3.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611224549_Demo3.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240611224549_Demo3.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611224549_Demo3.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240611224549_Demo3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:45:49.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240611223818_Demo32.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611223818_Demo32.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240611223818_Demo32.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611223818_Demo32.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240611223818_Demo32.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:38:18.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DersProgramisController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\DersProgramisController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\DersProgramisController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\DersProgramisController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\DersProgramisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:38:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DersBilgisisController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\DersBilgisisController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\DersBilgisisController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\DersBilgisisController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\DersBilgisisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:37:41.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KonuBilgisisController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\KonuBilgisisController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\KonuBilgisisController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\KonuBilgisisController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\KonuBilgisisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:37:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MufredatDerslersController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\MufredatDerslersController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\MufredatDerslersController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\MufredatDerslersController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\MufredatDerslersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:36:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MufredatKonularsController.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\MufredatKonularsController.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Controllers\\MufredatKonularsController.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Controllers\\MufredatKonularsController.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Controllers\\MufredatKonularsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:35:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240611223028_Demo30.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611223028_Demo30.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240611223028_Demo30.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240611223028_Demo30.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240611223028_Demo30.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:30:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alan.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\Alan.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\Alan.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\Alan.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\Alan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:55:40.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240518120932_Db4.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240518120932_Db4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:09:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240518120630_Db4.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240518120630_Db4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:06:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240518115944_Db3.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240518115944_Db3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:59:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240518115513_Db3.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Migrations\\20240518115513_Db3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:55:14.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EOgrenciTakipAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj",
+              "RelativeToolTip": "EOgrenciTakipAPI\\EOgrenciTakipAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T11:40:12.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MufredatKonular.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\MufredatKonular.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\MufredatKonular.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\MufredatKonular.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\MufredatKonular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:16:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MufredatDersler.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\MufredatDersler.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\MufredatDersler.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\MufredatDersler.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\MufredatDersler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:15:35.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DersBilgisi.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\DersBilgisi.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\DersBilgisi.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\DersBilgisi.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\DersBilgisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:15:15.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KonuBilgisi.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\KonuBilgisi.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\KonuBilgisi.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\KonuBilgisi.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\KonuBilgisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:14:56.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DersProgrami.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\DersProgrami.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\DersProgrami.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\DersProgrami.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\DersProgrami.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:14:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Program.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:10:19.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\appsettings.json",
+              "RelativeToolTip": "EOgrenciTakipAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T11:10:19.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:10:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "EOgrenciTakipAPI\\Model\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\ulker\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa\\Business\\Sistem Analizi\\E \u00D6\u011Frenci Takip \u0026 Analiz\\EOgrenciTakipAPI\\EOgrenciTakipAPI\\Model\\Ogrenci.cs",
+              "RelativeToolTip": "EOgrenciTakipAPI\\Model\\Ogrenci.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:10:19.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
